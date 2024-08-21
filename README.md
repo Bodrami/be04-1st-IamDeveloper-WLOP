@@ -26,7 +26,9 @@
      더 많은 장소를 우리의 반려동물들과 함께 할 수 있는 사회를 만드는데 기여하고자 한다.
 ----------------------------------------------------------------   
 # 2. 업무 흐름도
-<img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/11d7752c-df69-418b-8705-628bee1cedc3" alt="업무흐름도" width="900" height="600"/>
+
+![image](https://github.com/user-attachments/assets/5365cc6c-020c-41d8-85e4-6a1be391136f)
+
 
 -----------------------------
 # 3. 요구사항
@@ -1112,7 +1114,9 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/32
 
 ----------------------------
 # 7. 시스템 아키텍처
-<img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/4ee64be1-d5ec-49eb-859d-25d7b4ed988f" alt="시스템 아키텍처" width="900" height="600"/>
+
+![001](https://github.com/user-attachments/assets/54650319-a26d-4c02-80e5-ead1c8fddc0a)
+
 
 ---------------------------
 # 8. WBS  
@@ -1122,15 +1126,11 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/32
 # 9. 회의록 및 개인 회고
 ## 💡 주제선정 및 필요한 테이블 의견 모으기(23/12/29)
 
-<img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/d7a13d5e-f167-4ac3-a67e-67e8634e6efd" alt="회의사진" width="300" height="300"/>
-
 > <li> 회의 내용: 단위 프로젝트 주제구상 및 관련 테이블 정보를 모으고 회의를 통해 의견을 나누어봄
 > <li> 오늘 해낸것: 주제 선정, ERDcloud 논리모델 구상하기(PK,FK 생각하면서 연결)
 > <li> 이슈: 회의를 통해 각자 생각했던 주제에 대해 의견을 나누고 그 중에서 가장 사회적으로 이슈가 되고 있는반려동물을 위한 커뮤니티로 주제를 선정하였음.
 
 ## 💡 개념•논리모델 테이블 수정 및 추가(24/01/02)
-
-<img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/c1befe5a-d4d5-4d12-8d9c-5e57c15dd55e" alt="회의 사진" width="300" height="400"/>
 
 > <li> 회의 내용: 개념 논리 모델을 수정하고 추가할 테이블이나 컬럼에 대해 의견을 나누며 수정작업 진행함.
 > <li> 오늘 해낸것: ERDcloud 수정 및 삭제, 업무흐름도
