@@ -910,14 +910,6 @@ INSERT INTO Photo VALUES
     
 </details>  
 
-
-<details>
-  <summary>시스템 아키텍처</summary>
-<img src="https://github.com/Bodrami/SWcamp_BORA/assets/149561287/4ee64be1-d5ec-49eb-859d-25d7b4ed988f" alt="시스템 아키텍처" width="900" height="600"/>
-    
-</details>   
-
-
 <details>
   <summary>리눅스 데이터베이스 생성 및 연동 확인</summary>
 <li> 리눅스 데이터 베이스 생성
@@ -1119,7 +1111,7 @@ https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/149561287/32
 
 
 ---------------------------
-# 8. WBS  
+# 8. WBS (일정관리)
 <img src="https://github.com/beyond-sw-camp/be04-1st-IamDeveloper-WLOP/assets/71023617/f30549aa-b5cb-4875-8106-a3c999af8f50" alt="WBS" width="900" height="600"/>
 
 ---------------------------
